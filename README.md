@@ -13,4 +13,4 @@
 
 [https://catalog.workshops.aws/agentic-ai-building-blocks/en-US](https://catalog.workshops.aws/agentic-ai-building-blocks/en-US)
 
-<img src = "/WeatherAgent%20-%20Week2/Weather AI Agent-BeSA week2.jpeg"/>
+<img src = "/WeatherAgent%20-%20Week2/Weather AI Agent-BeSA week2.jpeg" alt="Weather Agent"/>
