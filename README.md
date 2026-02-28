@@ -1,4 +1,4 @@
-**:goal_net: BeSA - Agentic AI Practice :boom:**
+**:goal_net: BeSA - Agentic AI Practice :boom: :anguilla:**
 -----------------------------
 
 **Week1**
